@@ -1,5 +1,6 @@
 # stutern
-# git-training new
+
+## git-training new
 
 - new entry
 - dev entry
